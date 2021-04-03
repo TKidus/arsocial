@@ -20,8 +20,6 @@ Creates an AR image with a virtual product so the user can see what it would loo
 
 
 
-
-
 ## Product Spec
 ### 1. User Stories (Required and Optional)
 
